@@ -1,0 +1,35 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof1",
+        "review": "Great professor with a clear teaching style. Highly recommended for anyone interested in Mathematics.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof2",
+        "review": "Very knowledgeable but the lectures are a bit fast-paced. Requires additional study time.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof3",
+        "review": "Engaging and enthusiastic. Makes complex topics easier to understand.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof4",
+        "review": "A bit disorganized but very approachable. Good for extra help outside of class.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof5",
+        "review": "Excellent lecturer with a lot of real-world examples. Classes are interactive and fun.",
+        "subject": "Economics",
+        "stars": 5
+      }
+    ]
+  }
+  
